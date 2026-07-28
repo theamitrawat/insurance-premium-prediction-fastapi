@@ -1,39 +1,34 @@
-# Python-generated files
+# Bytecode and caches
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+*.py[cod]
+*$py.class
 
 # Virtual environments
-.venv
+.venv/
 venv/
 env/
 .env
+.env.*
 
-# Python cache and bytecode
-__pycache__/
-*.py[cod]
-
-# Jupyter
-.ipynb_checkpoints
-
-# VS Code
-.vscode/
-
-# Distribution / packaging
+# Build and package output
 build/
 dist/
 *.egg-info/
+wheels/
 
-# OS files
-.DS_Store
-Thumbs.db
-
-# Pytest / coverage
+# Test and coverage output
 .pytest_cache/
 .coverage
+htmlcov/
 
-# OneDrive temporary files
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
 ~$*
