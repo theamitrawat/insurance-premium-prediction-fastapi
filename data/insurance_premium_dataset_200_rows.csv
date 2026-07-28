@@ -1,0 +1,201 @@
+age,weight,height,income_lpa,smoker,city,occupation,insurance_premium_category
+58,48,152,37.7,Yes,Hyderabad,Doctor,High
+65,56,151,30.5,Yes,Delhi,Teacher,High
+31,109,159,31.1,Yes,Lucknow,Sales Executive,High
+32,80,173,40.9,Yes,Bengaluru,Data Analyst,Medium
+45,80,166,9.9,No,Mumbai,Teacher,Low
+42,90,151,42.8,No,Delhi,Data Analyst,Medium
+47,60,179,48.7,No,Mumbai,Nurse,Low
+36,91,185,29.9,Yes,Delhi,Government Employee,High
+32,82,194,49.3,Yes,Mumbai,Sales Executive,Medium
+35,91,174,10.2,No,Hyderabad,Government Employee,Low
+35,54,189,31.4,Yes,Lucknow,Data Analyst,Medium
+33,104,155,20.5,Yes,Chennai,Software Engineer,Medium
+32,85,147,21.6,Yes,Hyderabad,Student,Medium
+63,72,165,33.6,No,Jaipur,Doctor,Medium
+34,76,153,37.9,No,Ahmedabad,Sales Executive,Low
+55,91,170,12.9,Yes,Lucknow,Mechanical Engineer,High
+23,51,193,43.4,Yes,Bengaluru,Government Employee,Medium
+45,53,183,20.8,No,Lucknow,Business Owner,Low
+53,59,145,34.9,No,Chennai,Teacher,Medium
+36,65,172,24.1,No,Lucknow,Doctor,Low
+50,83,151,42.5,Yes,Bengaluru,Accountant,High
+28,45,179,30.9,No,Delhi,Teacher,Low
+41,75,164,5.3,Yes,Mumbai,Data Analyst,Medium
+49,61,149,8.6,No,Lucknow,Doctor,Low
+34,99,178,48.3,Yes,Pune,Sales Executive,High
+60,92,186,23.3,No,Mumbai,Lawyer,Medium
+32,88,149,3.5,Yes,Ahmedabad,Lawyer,Medium
+18,52,149,13.4,Yes,Chennai,Teacher,Medium
+50,80,160,34.3,Yes,Lucknow,Doctor,High
+64,105,181,14.0,No,Kolkata,Lawyer,Medium
+24,100,151,19.3,No,Jaipur,Data Analyst,Low
+21,57,188,5.4,No,Mumbai,Lawyer,Low
+30,102,157,9.2,Yes,Pune,Mechanical Engineer,Medium
+33,101,149,40.9,Yes,Delhi,Government Employee,High
+52,56,145,46.5,Yes,Bengaluru,Sales Executive,High
+49,72,175,43.6,Yes,Bengaluru,Sales Executive,Medium
+18,78,169,46.5,No,Pune,Sales Executive,Low
+62,107,191,9.9,No,Hyderabad,Software Engineer,Medium
+55,52,192,38.0,Yes,Delhi,Student,High
+48,65,177,5.2,Yes,Bengaluru,Teacher,Medium
+56,75,149,21.7,Yes,Ahmedabad,Student,Medium
+20,55,184,22.4,No,Pune,Lawyer,Low
+60,85,190,13.8,No,Bengaluru,Government Employee,Medium
+59,103,164,17.5,Yes,Delhi,Mechanical Engineer,High
+57,57,181,6.0,Yes,Lucknow,Business Owner,Medium
+26,53,167,44.3,No,Pune,Doctor,Low
+46,83,179,31.6,Yes,Lucknow,Business Owner,High
+60,62,151,15.1,Yes,Lucknow,Doctor,Medium
+35,71,163,36.6,Yes,Pune,Nurse,Medium
+49,51,161,6.9,No,Pune,Software Engineer,Low
+18,61,166,32.8,No,Bengaluru,Data Analyst,Low
+46,99,180,29.1,Yes,Mumbai,Data Analyst,High
+27,49,179,42.1,Yes,Kolkata,Doctor,Medium
+20,91,164,45.2,Yes,Chennai,Lawyer,High
+61,58,160,19.3,No,Ahmedabad,Data Analyst,Low
+27,65,160,48.9,Yes,Kolkata,Software Engineer,Medium
+29,87,192,39.7,No,Hyderabad,Business Owner,Low
+28,58,195,20.7,Yes,Jaipur,Lawyer,Medium
+30,89,174,17.0,Yes,Hyderabad,Software Engineer,Medium
+60,96,157,18.1,Yes,Pune,Accountant,High
+59,96,177,34.8,No,Delhi,Teacher,Medium
+34,78,156,4.3,No,Chennai,Data Analyst,Low
+38,110,172,8.0,Yes,Pune,Software Engineer,High
+63,45,172,27.2,Yes,Chennai,Sales Executive,High
+22,87,187,32.1,Yes,Pune,Nurse,Medium
+37,97,187,18.0,No,Lucknow,Doctor,Medium
+30,93,171,34.7,Yes,Ahmedabad,Student,High
+37,45,170,16.9,Yes,Kolkata,Student,Medium
+56,86,186,24.6,No,Hyderabad,Nurse,Medium
+48,66,195,33.8,No,Lucknow,Government Employee,Low
+58,87,184,6.9,Yes,Pune,Lawyer,High
+30,48,154,4.7,No,Ahmedabad,Teacher,Low
+47,69,171,36.6,No,Jaipur,Sales Executive,Low
+33,45,154,44.9,Yes,Kolkata,Lawyer,Medium
+29,104,189,4.9,Yes,Mumbai,Mechanical Engineer,Medium
+26,85,174,47.6,No,Ahmedabad,Data Analyst,Low
+50,102,172,45.1,No,Jaipur,Business Owner,Medium
+33,80,185,38.9,No,Hyderabad,Business Owner,Low
+46,81,149,13.6,No,Chennai,Nurse,Low
+23,64,153,13.5,Yes,Hyderabad,Teacher,Medium
+44,87,171,28.3,No,Delhi,Lawyer,Medium
+44,47,169,43.2,No,Jaipur,Software Engineer,Low
+40,94,164,43.0,No,Lucknow,Data Analyst,Medium
+65,73,179,25.7,No,Kolkata,Mechanical Engineer,Medium
+19,88,169,34.3,No,Bengaluru,Mechanical Engineer,Low
+26,48,184,45.6,Yes,Mumbai,Government Employee,Medium
+45,104,153,11.1,No,Kolkata,Accountant,Medium
+31,86,174,18.5,No,Pune,Sales Executive,Low
+34,105,150,3.4,Yes,Chennai,Lawyer,Medium
+59,50,149,38.3,Yes,Hyderabad,Software Engineer,High
+57,75,154,8.5,Yes,Ahmedabad,Lawyer,Medium
+47,77,189,38.9,Yes,Ahmedabad,Student,High
+65,59,190,39.4,Yes,Pune,Teacher,High
+55,84,146,29.9,No,Kolkata,Data Analyst,Medium
+30,76,149,7.3,No,Ahmedabad,Teacher,Low
+54,50,195,19.0,No,Chennai,Teacher,Low
+50,88,186,3.1,No,Jaipur,Teacher,Low
+45,103,168,36.1,No,Bengaluru,Data Analyst,Medium
+51,79,186,31.8,No,Jaipur,Sales Executive,Medium
+64,79,182,17.8,Yes,Mumbai,Business Owner,High
+46,104,160,29.6,No,Chennai,Software Engineer,Medium
+49,68,165,25.7,No,Pune,Accountant,Low
+35,80,183,28.9,Yes,Mumbai,Lawyer,Medium
+64,107,171,28.9,Yes,Jaipur,Government Employee,High
+63,102,176,40.2,Yes,Pune,Lawyer,High
+43,76,189,17.0,No,Jaipur,Nurse,Low
+51,99,167,49.8,No,Chennai,Data Analyst,Medium
+47,84,162,14.4,Yes,Hyderabad,Accountant,Medium
+25,68,192,11.6,No,Pune,Data Analyst,Low
+55,81,193,49.1,Yes,Pune,Lawyer,High
+41,83,156,3.2,Yes,Pune,Software Engineer,Medium
+21,82,180,35.6,Yes,Jaipur,Teacher,Medium
+18,81,181,24.8,No,Chennai,Doctor,Low
+21,106,161,7.9,Yes,Kolkata,Mechanical Engineer,Medium
+22,51,181,9.7,No,Mumbai,Lawyer,Low
+25,98,180,31.3,Yes,Lucknow,Sales Executive,High
+46,83,173,43.4,No,Pune,Student,Medium
+57,57,148,47.5,Yes,Hyderabad,Business Owner,High
+60,65,150,13.9,Yes,Bengaluru,Software Engineer,Medium
+44,105,173,16.3,Yes,Pune,Data Analyst,High
+36,103,189,5.9,Yes,Pune,Government Employee,High
+55,70,187,22.7,Yes,Bengaluru,Business Owner,Medium
+27,52,149,10.4,No,Ahmedabad,Data Analyst,Low
+54,101,163,8.4,No,Kolkata,Business Owner,Medium
+50,108,179,23.3,Yes,Kolkata,Data Analyst,High
+38,77,183,3.7,Yes,Ahmedabad,Student,Medium
+19,79,193,29.9,Yes,Jaipur,Nurse,Medium
+59,80,173,11.1,No,Jaipur,Teacher,Medium
+48,97,167,18.3,Yes,Bengaluru,Accountant,High
+44,108,189,16.2,No,Lucknow,Software Engineer,Medium
+47,85,150,14.5,Yes,Kolkata,Nurse,Medium
+18,104,187,22.1,Yes,Lucknow,Accountant,Medium
+57,108,193,32.2,Yes,Hyderabad,Business Owner,High
+53,81,153,23.3,No,Mumbai,Software Engineer,Medium
+58,75,183,36.2,No,Lucknow,Software Engineer,Medium
+53,56,171,13.2,Yes,Jaipur,Teacher,Medium
+59,108,154,46.8,No,Lucknow,Data Analyst,Medium
+35,106,171,49.1,Yes,Jaipur,Nurse,High
+27,69,169,46.3,Yes,Mumbai,Business Owner,Medium
+44,109,166,15.2,Yes,Pune,Data Analyst,High
+37,107,182,43.6,No,Lucknow,Mechanical Engineer,Medium
+40,93,166,24.1,No,Hyderabad,Data Analyst,Medium
+33,94,181,13.6,No,Delhi,Accountant,Low
+65,93,175,20.8,Yes,Jaipur,Software Engineer,High
+26,87,177,43.8,No,Mumbai,Nurse,Low
+47,63,145,22.0,Yes,Mumbai,Mechanical Engineer,Medium
+34,95,166,33.4,No,Lucknow,Sales Executive,Medium
+38,107,185,43.9,Yes,Ahmedabad,Teacher,High
+33,81,185,49.9,Yes,Kolkata,Teacher,Medium
+58,57,190,23.6,No,Delhi,Software Engineer,Low
+38,52,195,16.4,No,Kolkata,Doctor,Low
+33,97,178,29.4,Yes,Bengaluru,Doctor,High
+23,93,184,31.9,Yes,Jaipur,Student,High
+27,104,159,32.8,No,Pune,Government Employee,Medium
+18,81,174,34.7,Yes,Mumbai,Mechanical Engineer,Medium
+40,83,182,32.8,No,Pune,Mechanical Engineer,Medium
+37,94,157,43.0,Yes,Hyderabad,Sales Executive,High
+54,82,167,49.7,No,Delhi,Government Employee,Medium
+43,46,162,29.4,Yes,Ahmedabad,Data Analyst,Medium
+49,74,163,31.3,No,Hyderabad,Government Employee,Low
+30,77,184,34.7,Yes,Mumbai,Government Employee,Medium
+59,84,147,40.0,Yes,Ahmedabad,Accountant,High
+64,56,153,45.7,No,Kolkata,Doctor,Medium
+30,91,153,27.7,No,Bengaluru,Business Owner,Medium
+48,88,163,40.7,No,Mumbai,Doctor,Medium
+32,95,188,48.4,No,Mumbai,Sales Executive,Medium
+18,60,161,24.1,No,Ahmedabad,Sales Executive,Low
+58,58,168,34.6,No,Delhi,Student,Medium
+53,73,165,33.3,No,Pune,Government Employee,Medium
+44,62,152,4.7,Yes,Pune,Mechanical Engineer,Medium
+25,75,151,44.6,Yes,Kolkata,Mechanical Engineer,Medium
+41,98,187,30.4,Yes,Kolkata,Government Employee,High
+24,97,176,47.1,No,Delhi,Data Analyst,Medium
+41,101,158,23.6,Yes,Chennai,Teacher,High
+61,90,168,5.4,No,Hyderabad,Teacher,Medium
+47,72,150,33.0,Yes,Delhi,Accountant,Medium
+33,71,153,5.8,Yes,Ahmedabad,Lawyer,Medium
+32,63,166,40.0,Yes,Pune,Doctor,Medium
+26,77,179,40.4,Yes,Delhi,Doctor,Medium
+18,75,167,30.5,Yes,Bengaluru,Business Owner,Medium
+21,98,153,27.5,Yes,Jaipur,Mechanical Engineer,High
+41,58,177,24.0,Yes,Ahmedabad,Software Engineer,Medium
+64,83,195,24.3,Yes,Delhi,Mechanical Engineer,High
+43,58,172,25.8,No,Mumbai,Teacher,Low
+38,63,183,5.6,No,Ahmedabad,Government Employee,Low
+55,86,180,20.6,No,Jaipur,Nurse,Medium
+56,57,172,40.2,Yes,Lucknow,Data Analyst,High
+31,102,172,44.7,No,Chennai,Mechanical Engineer,Medium
+43,57,171,17.3,No,Pune,Accountant,Low
+27,105,188,5.7,Yes,Mumbai,Sales Executive,Medium
+24,92,192,41.1,Yes,Ahmedabad,Nurse,High
+53,60,166,22.0,No,Delhi,Business Owner,Low
+56,90,164,7.4,Yes,Bengaluru,Government Employee,High
+48,58,159,19.1,No,Mumbai,Business Owner,Low
+54,99,159,42.6,Yes,Ahmedabad,Government Employee,High
+62,48,162,11.1,No,Chennai,Accountant,Low
+18,63,156,29.4,No,Mumbai,Doctor,Low
+65,48,185,6.9,Yes,Kolkata,Sales Executive,Medium
+47,65,166,20.1,No,Ahmedabad,Student,Low
+23,64,148,10.0,Yes,Mumbai,Business Owner,Medium
