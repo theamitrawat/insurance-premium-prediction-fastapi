@@ -1,13 +1,12 @@
 # Insurance Premium Prediction FastAPI
 
-A small machine learning project that predicts an insurance premium category from user details. The backend is built with FastAPI, the frontend is built with Streamlit, and the model is trained with scikit-learn.
+A small machine learning project that predicts an insurance premium category from user details. The API is built with FastAPI, and the model is trained with scikit-learn.
 
 ## Project Structure
 
 ```text
 .
 |-- app.py
-|-- main.py
 |-- insurance_premium.py
 |-- data/
 |   `-- insurance_premium_dataset_200_rows.csv
@@ -73,14 +72,6 @@ Example request body:
   "city": "Mumbai",
   "occupation": "Software Engineer"
 }
-```
-
-## Run the Streamlit Frontend
-
-Keep the FastAPI backend running in one terminal. In another terminal, run:
-
-```powershell
-streamlit run main.py
 ```
 
 ## Retrain the Model
